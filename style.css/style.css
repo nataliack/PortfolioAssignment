@@ -1,0 +1,16 @@
+button {
+  border: 1px solid transparent;
+  border-radius: 2px;
+  background-color: #585656;
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #726f6f;
+}
+
+body {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
