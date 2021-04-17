@@ -1,0 +1,81 @@
+  /* below is the css code for the the header including things like the colour and animation */
+  h1 {
+    color: 	#585656;
+    text-align: center;
+    font-size: 90px;
+    font-style: initial;
+    font-weight: bold;
+    margin-bottom: 50px;
+    transition: all 0.5s ease 0s;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
+    line-height: 0.70em;
+    outline: none;
+    animation: animate 5s linear infinite;
+}
+@keyframes animate {
+    0% 
+    {
+        color: 		#b3807b;
+        text-shadow: none;
+    }
+    100% 
+    {
+        color: #b3807b	;
+        text-shadow: 0 0 10px #b3807b	, 
+        0 0 20px 		#b3807b,
+        0 0 40px 	#b3807b	,
+        0 0 80px 		#b3807b,
+        0 0 160px 		#b3807b,
+        0 0 230px #ff0080,
+        0 0 300px #ff0080,
+        0 0 350px #ff0080;
+    }
+}
+/* below is the styling code for the second heading */
+h2 {
+    text-align: center;
+    color: #b3807b;
+    transition: all 0.5s ease 0s;
+}
+h2:hover {
+    color: #b3807b;
+}
+/* below is code for paragraphs */
+p {
+    text-align: center;
+    color: 	#faf6f2;
+}
+/* below is the css code for the navigation bar */
+nav {
+    
+    text-align: center;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    margin: 50px;
+    padding: 50px;
+    background-color: 	#585656;
+}
+a {
+    font-family: initial, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: 	#faf6f2;
+    text-decoration: none;
+    padding: 0px 95px;
+}
+nav a {
+    transition: all 0.3s ease 0s;
+}
+nav a:hover {
+    color: #b3807b;
+}
+/* below is the header tags which are also a part of the navigation bar. this part helps in centering the nav bar */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* below is where the background colour of the website is set */
+body {
+    background-color:	#444949;
+}
