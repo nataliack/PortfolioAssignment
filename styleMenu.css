@@ -78,6 +78,9 @@ body {
    h1 {
        text-align: center;
    }
+   h2 {
+       color: #b3807b;
+   }
    body {
        background-color: #444949;
    }
