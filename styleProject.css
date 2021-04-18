@@ -2,7 +2,7 @@
   h1 {
     color: 	#585656;
     text-align: center;
-    font-size: 90px;
+    font-size: 563%;
     font-style: initial;
     font-weight: bold;
     margin-bottom: 50px;
@@ -74,8 +74,56 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    text-align: center;
 }
 /* below is where the background colour of the website is set */
 body {
     background-color:	#444949;
 }
+@media only screen and (max-width:414px) {
+    p {
+        font-size: 18px;
+    }
+    body {
+        background-color: #444949;
+    }
+    header {
+        float: none;
+        width: 100%;
+        
+    }
+    div {
+        float: none;
+        width: 100%;
+    }
+    nav {
+        padding: 0px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+}  
+@media only screen and (max-width:768px) {
+    p {
+        font-size: 22px;
+    }
+    body {
+        background-color: #444949;
+    }
+    header {
+        float: none;
+        width: 100%;
+    }
+    div {
+        float: none;
+        width: 100%;
+    }
+}  
+@media only screen and (min-width:1140px) {
+    p {
+        font-size: 20px;
+    }
+    body {
+        background-color: #444949;
+    }
+}  

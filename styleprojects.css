@@ -95,3 +95,60 @@ body {
        color: #b3807b;
        font-size: 25px;
    }
+   @media only screen and (max-width:414px) {
+    p {
+        font-size: 18px;
+    }
+    body {
+        background-color: #444949;
+    }
+    header {
+        float: none;
+        width: 100%;
+    }
+    div {
+        float: none;
+        width: 100%;
+    }
+    nav {
+        padding: 0px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+    
+    div video {
+        height: 300px;
+        width: 300px;
+    }
+    
+}  
+@media only screen and (min-width:768px) {
+    p {
+        font-size: 19px;
+    }
+    body {
+        background-color: #444949;
+    }
+    header {
+        float: none;
+        width: 100%;
+    }
+    div {
+        float: none;
+        width: 100%;
+    }
+    div video {
+        height: 600px;
+        width: 600px;
+    }
+    
+}  
+@media only screen and (min-width:1140px) {
+    p {
+        font-size: 20px;
+    }
+    body {
+        background-color: #444949;
+    }
+}  
