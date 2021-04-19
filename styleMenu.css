@@ -53,7 +53,7 @@ a {
     font-size: 18px;
     color: 	#faf6f2;
     text-decoration: none;
-    padding: 0px 95px;
+    padding: 0vw 3vw;
 }
 nav a {
     transition: all 0.3s ease 0s;
@@ -66,6 +66,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100vw;
 }
 /* The code below is used to set the background colour of the website to a dark muted grey */
 body {
@@ -84,7 +85,10 @@ body {
    body {
        background-color: #444949;
    }
-   @media only screen and (max-width:414px) {
+   .topbar {
+    width: 100%;
+}
+@media only screen and (max-width:414px) {
     
     body {
         background-color: #444949;

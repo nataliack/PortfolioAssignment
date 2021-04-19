@@ -1,7 +1,7 @@
 h1 {
     color: 	#585656;
     text-align: center;
-    font-size: 90px;
+    font-size: 563%;
     font-style: initial;
     font-weight: bold;
     margin-bottom: 50px;
@@ -42,6 +42,9 @@ p {
     text-align: center;
     color: 	#faf6f2;
 }
+.topbar {
+    width: 100%;
+}
 nav {
     
     text-align: center;
@@ -57,7 +60,7 @@ a {
     font-size: 18px;
     color: 	#faf6f2;
     text-decoration: none;
-    padding: 0px 95px;
+    padding: 0vw 3vw;
 }
 nav a {
     transition: all 0.3s ease 0s;
@@ -69,6 +72,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    text-align: center;
+    width: 100vw;
 }
 body {
     background-color:	#444949;
@@ -83,11 +88,10 @@ li {
 }
 body {
     text-align: center;
-
 }
 @media only screen and (max-width:414px) {
     p {
-        font-size: 18px;
+        font-size: 13px;
     }
     body {
         background-color: #444949;
@@ -101,14 +105,12 @@ body {
         float: none;
         width: 100%;
     }
-    nav {
-        padding: 0px;
-    }
+    
     h1 {
         font-size: 50px;
     }
 }  
-@media only screen and (max-width:768px) {
+@media only screen and (min-width:768px) {
     p {
         font-size: 22px;
     }
