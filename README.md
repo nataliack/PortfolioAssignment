@@ -3,9 +3,9 @@ README.md
 # portfolio
 # Personal Portofolio - Natalia Chamon
 ## Website Link
-The link to my site is found here:  
+The link to my site is found here: https://github.com/nataliack/PortfolioAssignment
 ## GitHub Repo
-Link to GitHub repo: https://github.com/nataliack/portfolio
+Link to GitHub repo: https://github.com/nataliack/PortfolioAssignment
 ## Purpose 
 The purpose of this project is to create a website that showcases my level of ability to code and allows potential employers to view my work. 
 At the same time, my webpage will also be like a personal page talking a bit about myself such as hobbies or projects I've done in the past. 
