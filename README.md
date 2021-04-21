@@ -1,6 +1,4 @@
-README.md
 
-# portfolio
 # Personal Portofolio - Natalia Chamon
 ## Website Link
 The link to my site is found here: https://nataliack.github.io/PortfolioAssignment/index.html
