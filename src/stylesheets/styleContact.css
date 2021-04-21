@@ -1,3 +1,4 @@
+/* below is the css code for the the header including things like the colour and animation */
 h1 {
     color: 	#585656;
     text-align: center;
@@ -11,6 +12,7 @@ h1 {
     outline: none;
     animation: animate 5s linear infinite;
 }
+/* below is code for the animation */
 @keyframes animate {
     0% 
     {
@@ -31,10 +33,11 @@ h1 {
     }
 }
 
-p {
+p { /* below is the styling code for the html paragraph tags */
     text-align: center;
     color: 	#faf6f2;
 }
+/* below is the styling code for the nav bar */
 nav {
     
     text-align: center;
@@ -44,7 +47,7 @@ nav {
     padding: 50px;
     background-color: 	#585656;
 }
-a {
+a { /* below is the styling code for the font inside the nav bar */
     font-family: initial, sans-serif;
     font-weight: 500;
     font-size: 18px;
@@ -52,21 +55,24 @@ a {
     text-decoration: none;
     padding: 0vw 3vw;
 }
+/* below is the styling code for the hover effect inside the nav bar */
 nav a {
     transition: all 0.3s ease 0s;
 }
 nav a:hover {
     color: #b3807b;
 }
+/* below is the styling code for centering the nav bar which is a part of the header */
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100vw;
 }
-body {
+body { /* below is the styling code for setting the background colour to a dark grey */
     background-color:	#444949;
 }
+/* below is the styling code for the border of the nav bar */
 li {
     list-style: none;
     margin: 10px 30px;
@@ -79,10 +85,10 @@ body {
     text-align: center;
 
 }
-   h1 {
+   h1 { /* below is the styling code for the first heading */
        text-align: center;
    }
-   h2 {
+   h2 { /* below is the styling code for the second heading */
     color: #b3807b;
 
    }
@@ -92,6 +98,7 @@ body {
    .topbar {
     width: 100%;
 }
+/* below is the styling code for when a user uses the website on other devices */
 @media only screen and (max-width:768px) {
     p {
         font-size: 18px;
