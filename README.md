@@ -3,7 +3,7 @@ README.md
 # portfolio
 # Personal Portofolio - Natalia Chamon
 ## Website Link
-The link to my site is found here: https://github.com/nataliack/PortfolioAssignment
+The link to my site is found here: https://nataliack.github.io/PortfolioAssignment/index.html
 ## GitHub Repo
 Link to GitHub repo: https://github.com/nataliack/PortfolioAssignment
 ## Purpose 
