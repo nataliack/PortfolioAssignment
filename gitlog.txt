@@ -1,0 +1,53 @@
+commit 7e9fa175ba30811707eae9a9d6d72d095d144288
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Tue Apr 20 15:25:25 2021 +1000
+
+    fixed small detail
+
+commit 7c7031b318d7b3ee7a506fd9158ae3a99f301df1
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Tue Apr 20 09:47:16 2021 +1000
+
+    Fixed a few details
+
+commit eaba4796e5a040a5a22f7c179aa9ded3d52d51e4
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Mon Apr 19 22:12:25 2021 +1000
+
+    added a bracket to fix an issue
+
+commit 631d742f78e9e58b2c68df27efc2611e36284287
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Mon Apr 19 22:11:09 2021 +1000
+
+    fixed a few things involving the media queries
+
+commit 7e9d656112f86cda0fcc669c47e57220b2936db5
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Sun Apr 18 21:02:02 2021 +1000
+
+    deleted a few files and added media queries to make application responsive
+
+commit cb561d3e2d04f3ebe75f1a0cdece3c8258b2c95d
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Sat Apr 17 19:27:22 2021 +1000
+
+    added colour to a few headings
+
+commit 31ca8f3d3b6562c80bdc6002d2f4535ae62f39cc
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Sat Apr 17 15:41:59 2021 +1000
+
+    Nat separated css code into their own files
+
+commit 5d2811b8e4a84e886960f4bec28d7550ae6a62f2
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Fri Apr 16 18:51:00 2021 +1000
+
+    Changes made by nana
+
+commit 92879504dbb31f98f847f5378182329227f33c99
+Author: NataliaCK <natalia.chamom@gmail.com>
+Date:   Thu Apr 15 17:19:41 2021 +1000
+
+    first commit
